@@ -2,7 +2,7 @@
 title: This is my First POST MY DOG
 date: 2022-11-10T15:58:32.714Z
 description: This is a test my guy
-image: img/microsoftteams-image.png
+image: ""
 ---
 # test
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a rutrum lorem. Fusce tincidunt nisl et ex ultricies, sit amet tincidunt enim vulputate. Maecenas ac tincidunt ipsum. Duis dictum eu orci ut gravida. Vestibulum sollicitudin erat ut faucibus tristique. Curabitur mattis, nibh vel iaculis efficitur, erat ante luctus justo, eget posuere turpis ligula sed neque. Aliquam erat volutpat. Nullam id lobortis purus. Quisque vitae consequat dolor.
